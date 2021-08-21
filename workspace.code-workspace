@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Msquare programming\\youtubeStudio"
+		},
+		{
+			"path": "..\\Msquare programming"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "youtubeStudio",
+		"liveServer.settings.port": 5501
+	}
+}
